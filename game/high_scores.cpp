@@ -1,18 +1,18 @@
 #include "high_scores.h"
 #include <iostream>
 #include <fstream>
-#include <string>
+
 
 
 std::string high_scores_filename{ "high_scores.txt" };
 
-	int f_high_scores(int attempts_count) {
+	int f_high_scores(int attempts_count, const std::string& user_name) {
 	
 
 	// Ask about name
-	std::cout << "Hi! Enter your name, please:" << std::endl;
-	std::string user_name;
-	std::cin >> user_name;
+	//std::cout << "Hi! Enter your name, please:" << std::endl;
+	//std::string user_name;
+	//std::cin >> user_name;
 
 	// Get the last high score
 	//std::cout << "Enter your high score:" << std::endl;
