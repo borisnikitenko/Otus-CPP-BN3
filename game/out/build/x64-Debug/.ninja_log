@@ -1,0 +1,5 @@
+# ninja log v5
+5	657	7360092296307054	CMakeFiles/check_value.dir/random_value.cpp.obj	2c4bec6165dcf398
+2	660	7360092296337134	CMakeFiles/check_value.dir/check_value.cpp.obj	b899bcc37c51c629
+9	671	7360092296437238	CMakeFiles/check_value.dir/high_scores.cpp.obj	c0c1846d531239e9
+671	942	7360092298989306	check_value.exe	ceb0056bd586bbc2
